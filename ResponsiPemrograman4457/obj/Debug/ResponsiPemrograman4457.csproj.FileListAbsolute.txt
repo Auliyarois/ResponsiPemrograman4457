@@ -1,0 +1,6 @@
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\RESPONSI\ResponsiPemrograman4457\ResponsiPemrograman4457\bin\Debug\ResponsiPemrograman4457.exe.config
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\RESPONSI\ResponsiPemrograman4457\ResponsiPemrograman4457\bin\Debug\ResponsiPemrograman4457.exe
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\RESPONSI\ResponsiPemrograman4457\ResponsiPemrograman4457\bin\Debug\ResponsiPemrograman4457.pdb
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\RESPONSI\ResponsiPemrograman4457\ResponsiPemrograman4457\obj\Debug\ResponsiPemrograman4457.csprojResolveAssemblyReference.cache
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\RESPONSI\ResponsiPemrograman4457\ResponsiPemrograman4457\obj\Debug\ResponsiPemrograman4457.exe
+D:\PRAKTIKUM SEMESTER 2\PEMROGRAMAN\RESPONSI\ResponsiPemrograman4457\ResponsiPemrograman4457\obj\Debug\ResponsiPemrograman4457.pdb
